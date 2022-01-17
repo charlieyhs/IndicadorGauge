@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>gauge.png</file>
+    </qresource>
+</RCC>
